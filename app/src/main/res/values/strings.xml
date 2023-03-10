@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab03</string>
+    <string name="username">username</string>
+    <string name="Email">Email</string>
+    <string name="PhoneNumber">Phone Number</string>
+    <string name="hint">Password</string>
+    <string name="RetypePassword">Retype Password</string>
+    <string name="SUBMIT">SUBMIT</string>
+    <string name="button">SUBMIT</string>
+    <string name="button01">CANCEL</string>
+    <string name="NAME">NAME</string>
+</resources>
